@@ -1,3 +1,7 @@
+# Projeto
+
+Objetivo: Criar um chat usando as tecnologias: Angular 6, Graphcool e GraphQL.
+
 # AngularGraphcoolApollo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
