@@ -1,15 +1,18 @@
-# Seção 2
+# Aplicação com Angular 6+, GraphCool e GraphQL
 
 
 
-## Bug Fixes
+
+## Seção 2
+
+### Bug Fixes
   - ajuste no readme
   ([44231337](https://github.com/PedroBarata/angular-graphcool-chat/commit/442313375406cfbe462748e43a4262141632fdbf))
 
 
 
 
-## Features
+### Features
 
   - **final da segunda seção**
     - Adição dos componentes do Angular Material e HammerJS
