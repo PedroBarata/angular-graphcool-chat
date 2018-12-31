@@ -1,3 +1,12 @@
+## [0.0.3](https://github.com/PedroBarata/angular-graphcool-chat/compare/v0.0.2...v0.0.3) (2018-12-31)
+
+
+### Features
+
+* Instalando o graphcool ([86e1c32](https://github.com/PedroBarata/angular-graphcool-chat/commit/86e1c32))
+
+
+
 ## [0.0.1](https://github.com/PedroBarata/angular-graphcool-chat/compare/9b85875...v0.0.1) (2018-12-29)
 
 
