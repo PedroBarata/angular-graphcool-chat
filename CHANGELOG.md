@@ -1,3 +1,13 @@
+## [0.0.3](https://github.com/PedroBarata/angular-graphcool-chat/compare/v0.0.2...v0.0.3) (2019-01-10)
+
+### Features
+
+* **Final da terceira seção:** Modelagem das entidades do Graphcool via GraphQL ([1666050](https://github.com/PedroBarata/angular-graphcool-chat/commit/1666050))
+* **modelagem:** Modelagem das entidades do Graphcool via GraphQL ([6b2ea4a](https://github.com/PedroBarata/angular-graphcool-chat/commit/6b2ea4a))
+* **modelagem:** Modelagem das entidades do Graphcool via GraphQL ([5998c34](https://github.com/PedroBarata/angular-graphcool-chat/commit/5998c34))
+
+
+
 ## [0.0.3](https://github.com/PedroBarata/angular-graphcool-chat/compare/v0.0.2...v0.0.3) (2018-12-31)
 
 
