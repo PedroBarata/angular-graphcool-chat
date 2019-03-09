@@ -11,6 +11,7 @@ export class AppComponent {
 
   title = "angular-graphcool-apollo";
   constructor(private http: HttpClient) {
+    this.createUser();
     this.allUsers();
   }
 
@@ -24,6 +25,26 @@ export class AppComponent {
           email
         }
       }`
+    };
+
+    this.http.post(this.apiURL, body).subscribe(res => console.log(res));
+  }
+
+  createUser(): void {
+    const body = {
+      query: `
+      mutation createNewUser($name: String!, $email: String!, $pass: String!) {
+        createUser(name: $name, email: $email, password: $pass) {
+          id,
+          name,
+          email
+        }
+      }`,
+      variables: {
+        name: "Teste1",
+        email: "email@email.com",
+        pass: "12345"
+      }
     };
 
     this.http.post(this.apiURL, body).subscribe(res => console.log(res));
