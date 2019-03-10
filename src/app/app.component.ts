@@ -11,7 +11,7 @@ export class AppComponent {
 
   title = "angular-graphcool-apollo";
   constructor(private apollo: Apollo) {
-    this.createUser();
+    //this.createUser();
     this.allUsers();
   }
 
